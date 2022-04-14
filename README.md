@@ -1,0 +1,1 @@
+# BinaryFrameworkPodspec-iOS
